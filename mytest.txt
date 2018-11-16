@@ -2,3 +2,7 @@ hello world!
 aaaa
 bbb
 cc
+
+public class Hello{
+	private String name;
+}
