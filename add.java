@@ -1,5 +1,5 @@
 public class add
 {
 	private String name;
-	private String addr;
+	private String addr1;
 }
